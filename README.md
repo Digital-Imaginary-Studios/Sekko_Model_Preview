@@ -1,1 +1,1 @@
-# Sekko_Model_Preview
+# Sekko_Assets
